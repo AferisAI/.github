@@ -1,9 +1,9 @@
 # Aferis - Leitura de Documentos LTDA
 
 ### Site institucional: [https://aferis.ai](https://aferis.ai)  
-##### © Imóvel Periciado LTDA. Todos os direitos reservados.
+##### © Aferis AI LTDA. Todos os direitos reservados.
 
-Bem-vindo à **Imóvel Periciado Leitura de Documentos LTDA**, uma empresa especializada na interseção entre tecnologia e perícia imobiliária. Nossa missão é clara e objetiva: **transformar a leitura e validação de documentos jurídicos e registrais em um processo técnico, automatizado e juridicamente robusto**.
+Bem-vindo à **Aferis AI Leitura de Documentos LTDA**, uma empresa especializada na interseção entre tecnologia e perícia imobiliária. Nossa missão é clara e objetiva: **transformar a leitura e validação de documentos jurídicos e registrais em um processo técnico, automatizado e juridicamente robusto**.
 
 Atuamos com excelência na **digitalização, análise, extração e validação de informações** oriundas de matrículas imobiliárias, contratos, registros cartoriais e outros documentos técnicos que exigem leitura crítica, compreensão jurídica e interpretação semântica com precisão forense.
 
@@ -32,7 +32,7 @@ Todas as nossas operações seguem padrões de segurança da informação basead
 
 ## 🤝 Modelo de Parcerias & Inovação Aberta
 
-A **Imóvel Periciado LTDA** é aberta à cocriação de soluções sob demanda, colaborações técnicas, licenciamento de tecnologia e integração via API. Mantemos repositórios públicos e privados para fomentar o ecossistema de inovação em **LegalTech & Real Estate Forensics**.
+A **Aferis AI LTDA** é aberta à cocriação de soluções sob demanda, colaborações técnicas, licenciamento de tecnologia e integração via API. Mantemos repositórios públicos e privados para fomentar o ecossistema de inovação em **LegalTech & Real Estate Forensics**.
 
 Estamos abertos à colaboração com:
 
@@ -47,4 +47,4 @@ Redefinir o futuro da perícia imobiliária através da automação inteligente,
 
 ---
 
-> **Imóvel Periciado** é mais do que uma empresa – é um novo paradigma na forma como lidamos com a verificação de documentos jurídicos e registro de imóveis. Se você busca excelência técnica e inovação prática, você está no lugar certo.
+> **Aferis AI** é mais do que uma empresa – é um novo paradigma na forma como lidamos com a verificação de documentos jurídicos e registro de imóveis. Se você busca excelência técnica e inovação prática, você está no lugar certo.
